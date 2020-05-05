@@ -8,9 +8,6 @@ assignees: ''
 ---
 
 <!-- Please fill out the relevant fields by replacing the comments with your description -->
-
-## Summary
-
  Aspect       | Detail
 --------------|--------------
 Summary       | <!-- A one-line sentence describing a complete but short summary of the task.* -->
@@ -20,10 +17,9 @@ Information   | <!-- Put names/emails of persons which can provide additional in
 Prerequisites | <!-- Does this task require something else? (if applicable) -->
 Dependencies  | <!-- Does this task depend on another task? (if applicable) -->
 
-## Requirements
-<!-- Provide a detailed description of the requirements. It does not have to be perfect, but detailed enough to start an informed discussion. -->
+## Summary
 
-### Tasks
+## Tasks
 
 <!-- Provide here a list of subtasks (if applicable). You can define tasks as follows:
 
@@ -31,6 +27,9 @@ Dependencies  | <!-- Does this task depend on another task? (if applicable) -->
 - [ ] Task 2
 - [ ] ...
 -->
+
+## Requirements
+<!-- Provide a detailed description of the requirements. It does not have to be perfect, but detailed enough to start an informed discussion. -->
 
 ## Acceptance criteria
 <!-- Define here the Definition of Done (Acceptance criteria) to evaluate the tasks compliance with the requirements as defined above. -->
